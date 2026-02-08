@@ -1,0 +1,52 @@
+# ==========================================
+# CRITICAL: Sensitive Files - NEVER COMMIT!
+# ==========================================
+password_vault.enc
+*.enc
+backup_*.json
+vault_export.json
+*_export.json
+test_vault.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.json
+   *.log
+   sqli_report*.json
+   sqli_scan_results.log

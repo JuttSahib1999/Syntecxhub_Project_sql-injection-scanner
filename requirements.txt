@@ -1,0 +1,29 @@
+requests>=2.28.0
+
+# The requests library provides:
+# - HTTP request handling
+# - Session management
+# - Timeout configuration
+# - Exception handling
+#
+# Installation:
+# pip install requests
+#
+# Or install all requirements:
+# pip install -r requirements.txt
+#
+# Python >= 3.7 required
+
+# Standard library (no installation needed):
+# - re (regex pattern matching)
+# - time (rate limiting)
+# - json (report generation)
+# - logging (activity logging)
+# - argparse (CLI arguments)
+# - threading (concurrency)
+# - concurrent.futures (thread pool)
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
