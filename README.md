@@ -634,3 +634,7 @@ Created for educational purposes and ethical security testing.
 ---
 
 **Remember: With great power comes great responsibility. Use this tool ethically!** 🔐
+
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+   ![License](https://img.shields.io/badge/license-MIT-green.svg)
+   ![Ethical Use](https://img.shields.io/badge/use-ethical%20only-red.svg)
